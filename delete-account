@@ -1,0 +1,183 @@
+<!doctype html>
+
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TrackMyBudget - Suppression de compte</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1>Suppression de compte</h1>
+    <p>TrackMyBudget</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <p><strong>Dernière mise à jour :</strong> 11 juin 2026</p>
+
+```
+  <p>
+    Cette page explique comment les utilisateurs de l’application TrackMyBudget peuvent supprimer leur profil
+    et demander la suppression des données associées.
+  </p>
+</section>
+
+<section class="card">
+  <h2>1. Supprimer votre profil depuis l’application</h2>
+
+  <p>
+    Vous pouvez supprimer votre profil directement depuis l’application TrackMyBudget.
+  </p>
+
+  <p>
+    Pour cela, ouvrez l’application puis suivez le chemin suivant :
+  </p>
+
+  <ol>
+    <li>ouvrez l’application <strong>TrackMyBudget</strong> ;</li>
+    <li>allez dans l’onglet <strong>Configuration</strong> ;</li>
+    <li>ouvrez la section <strong>Mon profil</strong> ;</li>
+    <li>sélectionnez <strong>Supprimer mon profil</strong> ;</li>
+    <li>confirmez la suppression lorsque l’application vous le demande.</li>
+  </ol>
+
+  <p>
+    Cette action permet de supprimer le profil utilisateur associé à votre compte dans l’application.
+  </p>
+</section>
+
+<section class="card">
+  <h2>2. Demande par e-mail</h2>
+
+  <p>
+    Si vous ne pouvez plus accéder à l’application ou si vous rencontrez une difficulté, vous pouvez également
+    demander la suppression de votre compte et des données associées par e-mail.
+  </p>
+
+  <p>
+    Contactez-nous à l’adresse suivante :
+  </p>
+
+  <p>
+    <strong>trackmybudgetmobile@gmail.com</strong>
+  </p>
+
+  <p>
+    Dans votre demande, veuillez indiquer l’adresse e-mail utilisée pour votre compte TrackMyBudget afin que nous
+    puissions identifier le compte concerné.
+  </p>
+
+  <p>
+    Exemple d’objet d’e-mail :
+  </p>
+
+  <p>
+    <strong>Demande de suppression de compte TrackMyBudget</strong>
+  </p>
+</section>
+
+<section class="card">
+  <h2>3. Données supprimées</h2>
+
+  <p>
+    Lorsqu’une suppression de profil ou de compte est validée, les données suivantes peuvent être supprimées :
+  </p>
+
+  <ul>
+    <li>le profil utilisateur associé au compte ;</li>
+    <li>l’identifiant utilisateur utilisé pour l’authentification et la synchronisation ;</li>
+    <li>les données budgétaires saisies dans l’application : comptes, revenus, dépenses, dettes, épargne, objectifs, catégories et transactions ;</li>
+    <li>les données liées au foyer, aux membres du foyer et au partage budgétaire lorsque la suppression le permet ;</li>
+    <li>les préférences associées au compte lorsque celles-ci sont stockées côté serveur.</li>
+  </ul>
+
+  <p>
+    Si vous faites partie d’un foyer partagé, certaines données du foyer peuvent rester visibles pour les autres
+    membres du foyer lorsque ces données sont nécessaires au fonctionnement du budget partagé.
+  </p>
+</section>
+
+<section class="card">
+  <h2>4. Données pouvant être conservées temporairement</h2>
+
+  <p>
+    Certaines données peuvent être conservées temporairement lorsque cela est nécessaire pour respecter des
+    obligations légales, fiscales, de sécurité ou pour prévenir la fraude.
+  </p>
+
+  <p>
+    Les informations liées aux achats intégrés et abonnements peuvent également être conservées par Apple App Store,
+    Google Play Store ou RevenueCat conformément à leurs propres règles de conservation et obligations légales.
+  </p>
+
+  <p>
+    TrackMyBudget ne stocke pas les informations complètes de paiement, telles que les numéros de carte bancaire.
+  </p>
+</section>
+
+<section class="card">
+  <h2>5. Délai de traitement</h2>
+
+  <p>
+    La suppression effectuée depuis l’application est traitée automatiquement lorsque cela est techniquement possible.
+  </p>
+
+  <p>
+    Les demandes envoyées par e-mail sont traitées dans un délai raisonnable après réception de la demande et
+    identification du compte concerné.
+  </p>
+</section>
+
+<section class="card">
+  <h2>6. Conséquences de la suppression</h2>
+
+  <p>
+    La suppression du profil ou du compte peut être définitive. Une fois les données supprimées, elles ne pourront
+    pas toujours être restaurées.
+  </p>
+
+  <p>
+    Si vous disposez d’un abonnement Premium actif, la suppression du profil TrackMyBudget ne résilie pas
+    automatiquement l’abonnement auprès d’Apple App Store ou de Google Play Store. Vous devez également gérer ou
+    résilier votre abonnement depuis les paramètres de votre compte Apple ou Google.
+  </p>
+</section>
+
+<section class="card">
+  <h2>7. Contact</h2>
+
+  <p>
+    Pour toute question concernant la suppression de votre profil, de votre compte ou de vos données, contactez-nous à :
+  </p>
+
+  <p>
+    <strong>trackmybudgetmobile@gmail.com</strong>
+  </p>
+</section>
+
+<section class="card">
+  <h2>English summary</h2>
+
+  <p>
+    Users can delete their TrackMyBudget profile directly in the app by going to
+    <strong>Configuration &gt; My profile &gt; Delete my profile</strong> and confirming the deletion.
+    If they cannot access the app, they may contact support at
+    <strong>trackmybudgetmobile@gmail.com</strong> using the email address linked to their account.
+    The user profile, authentication identifier, budget data, household-related data, categories, goals and
+    transactions may be deleted. Some purchase-related or legally required data may be retained temporarily by
+    Apple App Store, Google Play Store, RevenueCat or TrackMyBudget where required by law, security or fraud
+    prevention obligations.
+  </p>
+</section>
+```
+
+  </main>
+
+  <footer>
+    © 2026 TrackMyBudget Mobile. All rights reserved.
+  </footer>
+</body>
+</html>
